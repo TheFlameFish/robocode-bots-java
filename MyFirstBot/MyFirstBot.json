@@ -1,0 +1,14 @@
+{
+  "name": "My First Bot",
+  "version": "1.0",
+  "authors": [
+    "FlameFish"
+  ],
+  "description": "A modified version of the bot created in the My First Bot tutorial.",
+  "homepage": "",
+  "countryCodes": [
+    "us"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 17"
+}
