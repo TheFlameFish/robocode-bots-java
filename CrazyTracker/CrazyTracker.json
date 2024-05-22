@@ -1,0 +1,14 @@
+{
+  "name": "Crazy Tracker",
+  "version": "1.0",
+  "authors": [
+    "FlameFish"
+  ],
+  "description": "This bot moves around in a crazy pattern. Tracks and fires at any bot it sees.",
+  "homepage": "",
+  "countryCodes": [
+    "us"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 17"
+}
